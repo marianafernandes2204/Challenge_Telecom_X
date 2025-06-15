@@ -1,4 +1,4 @@
-# 📊 Desafio de Data Science - Análise de Evasão de Clientes (EDA) | Telecom X
+# 📊 Challenge Telecom_X | Análise de Evasão de Clientes (EDA) 
 
 Este repositório contém a solução para o desafio proposto pela **Telecom X**, com foco na **análise de evasão de clientes - EDA**. O objetivo é entender os fatores que influenciam a saída de clientes da empresa, utilizando Python e bibliotecas de análise de dados.
 
@@ -36,15 +36,10 @@ A análise exploratória revelou importantes padrões de comportamento entre os 
 - **25,8% dos clientes** cancelaram seus serviços.
 - Gráficos de pizza foi utilizado para visualizar a proporção de cancelamento.
 
-## 📊 Visualização da Evasão de Clientes
+### 📊 Visualização da Evasão de Clientes
 
-| Percentual de Cancelamentos |
-|-----------------------|
 | ![image](https://github.com/user-attachments/assets/d01774f4-2e60-4e96-96a0-9fe404a0752c) | 
 
-
-
-> 📌 O gráfico acima revela que cerca de **25,8% dos clientes saíram da empresa**, enquanto **71,2% permaneceram**.
 
 ---
 
@@ -88,8 +83,9 @@ Foram analisadas variáveis e observado:
 ---
 
 ## ✍️ Autor
-Como parte de um desafio de análise de dados. Desenvolvido por 
-| Mariana Fernandes|
+Como parte de um desafio de análise de dados. Desenvolvido por
+
+Mariana Fernandes.
 
 ---
 
